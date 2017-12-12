@@ -25,7 +25,7 @@ security:
       jwt:
         keyValue: |
           -----BEGIN PUBLIC KEY-----
-          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhVny3DfQqdvQaPj6SJiiFfPRGH/5k3OiAXTCsmpKnL/GVKZpfFjT3LhN7xoj0DzJLTCOE94eOjIHipFzxrL00kBCZJ3HOornKDpTh17yPuqJI6DNmvJaRBbc3SVQsO0vndnDAeOBiv4euGHH97sPZYFqhmwM35PboqxeWaHrfgWcA5F8VFTp+HDPr26G4sv/UqkR1LsfRoD4gzNJswi00eWcNjeoEzy71023VECQYDytUg/wVqWOJnShWOJnCBnuzmjrtOCg6O6ecdHhVaiRI0//ZR71x2oDW5pe+kgVhhM29TH8SVRjbAFh35obN6ppcF3A7PFLf+euZTsmXMaahQIDAQAB
+          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtwQIUQqN7lEdBQGwakX4lqfakYHZRrDnmT+KTuxILM2SLdOuRuf1sqoLbcgNZnbnKipShTYY6MTn6ZbHSR6fXF8yzAfva5m1fgbrZIKp3uAcjWT2qd8qudPJkvLizEihd5AqWOVOUEBN5G+i/U49MZqDOrvpqbq1+O8IZpZ4f6lP7yVBPkt61lEieIfgyRVUSkDw+y4sXuodwxQtYJPbl48NfS85fjrUiMEPLJ2sqkbsss010jCAicdsaYyrakBe0Zqpb/S4PaqaRJRwEFT/HhLf5oW8sXD7EJhefpBXtCMtDtsSM/cetgmIRmKUMB55NhMFcxVyEoRcUyW9nGNPFwIDAQAB
           -----END PUBLIC KEY-----
 ---
 # comments-webservice instance when used on Docker
