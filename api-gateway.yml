@@ -74,6 +74,9 @@ zuul:
       stripPrefix: false
       serviceId: user-webservice
       sensitiveHeaders:
+    auth-server:
+      path: '/userauth/**'
+      strip-prefix: false
 
 
 # Since our gateway is using Eureka (@EnableEurekaClient), the Gateway using Netfix Ribbon to make

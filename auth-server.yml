@@ -2,6 +2,7 @@
 # cookies for both the API gateway as well as the OAuth2 authorization server.
 server:
   port: 8899
+  use-forward-headers: true
   contextPath: /userauth
 
 eureka:
